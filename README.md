@@ -96,6 +96,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 - [NFT SDK](https://github.com/hashgraph/hedera-nft-sdk) \- Hedera NFT Utilities SDK for JavaScript
 - [SDK TCK](https://github.com/hiero-ledger/hiero-sdk-tck) \- A TCK (Technology Compatibility Kit) used to verify compliant implementations of a Hiero SDK.
 - [Hedera Custodians Library](https://github.com/hashgraph/hedera-custodians-library) \- The hedera-custodians-library library is a Typescript utility designed to simplify custodial wallet management. It provides developers with tools to abstract complex aspects of custodial wallets, allowing them to focus on their application's core logic.
+- [Standards SDK](https://github.com/hashgraph-online/standards-sdk) \- TypeScript toolkit for building AI agents on Hedera with HCS-10 protocol support, agent discovery via Registry Broker, and integrations for LangChain, Vercel AI SDK, and LlamaIndex.
 
 ### **Examples and Demos**
 
@@ -318,6 +319,7 @@ Featuring projects built on top of or integrated with the [Hedera](https://www.h
 - [Fresh Supply Co.](https://fsco.io/): Supply chain digitalization platform bringing off-chain data on-chain.
   - [HBAR Foundation blog](https://www.hbarfoundation.org/blog-post/fresh-supply-co-fsco-payment-trigger-api-connects-hedera-to-mastercard-network)
 - [Hala Systems](https://hedera.com/users/hala-systems): Advanced solutions provider for civilian and asset protection before, during, and after conflict.
+- [Hashgraph Online (HOL)](https://hol.org): AI agent discovery platform enabling developers to find and integrate 59,000+ agents across MCP, NANDA, OpenRouter, A2A, and Virtuals protocols via the Registry Broker API.
 - [HealthReady](https://www.gethealthready.com/): Transforming clinical trial study design and recruitment using a patient-driven approach to accelerate research and improve outcomes.
   - [HBAR Foundation blog](https://www.hbarfoundation.org/blog-post/healthready-optimises-healthcare-data-with-hedera-to-resolve-clinical-research-bottlenecks)
 - [Supplier CO2 Emission Monitoring System (SCEMS)](https://www.hyundainews.com/en-us/releases/3895): Hedera-enabled carbon emissions tracking system providing data integrity and transparency for stakeholders at every stage of production.
